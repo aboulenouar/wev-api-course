@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebAPI</name>
+    </assembly>
+    <members>
+        <member name="M:WebAPI.Controllers.TodoItemsController.DeleteTodoItem(System.Int64)">
+            <summary>
+            Permet de supprimer un item de la base de données
+            </summary>
+            <remarks>
+            Sample request :
+            blablabla
+            </remarks>
+            <param name="id">ID de l'item</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
